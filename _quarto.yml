@@ -4,4 +4,11 @@ project:
 
 format:
   html:
-    self-contained: true
+    toc: true          
+    toc-depth: 5      # like Rmd: toc_depth: 4
+    number-sections: false   # like Rmd: number_sections: false
+    toc-location: left # float TOC on the right; could be left / right / left-body / right-body
+    toc-expand: false   # collapse all initially (true expands all; number sets expand level)
+    smooth-scroll: true # smooth scrolling to anchors
+    code-fold: true     # hide code by default with a toggle (Rmd: code_folding: hide)
+jupyter: python3
