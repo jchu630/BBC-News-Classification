@@ -34,7 +34,7 @@ This project is a comparative study of supervised learning algorithms for text c
 ## Files in This Repository
 
 - BBC_News_Classification.html – Full report with code, plots, and analysis.
-- notebook.ipynb – Original Jupyter Notebook.
+- BBC_News_Classification.ipynb – Original Jupyter Notebook.
 - train.csv, test.csv – Dataset files.
 
 ## Notes
