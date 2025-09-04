@@ -1,6 +1,8 @@
 # BBC-News-Classification
 
-[BBC-News-Classification](https://jchu630.github.io/BBC-News-Classification/BBC_News_Classification.html)
+[BBC-News-Classification](
+
+https://jchu630.github.io/BBC-News-Classification/BBC_News_Classification.html)
 
 
 This project is a comparative study of supervised learning algorithms for text classification, applied to BBC news articles. The goal is to classify articles into two categories: Tech and Entertainment, using modern feature extraction techniques and multiple machine learning models.
